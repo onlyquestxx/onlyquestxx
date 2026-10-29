@@ -1,16 +1,13 @@
-## Hi there 👋
+## yo, i'm onlyquestxx 👋
 
-<!--
-**onlyquestxx/onlyquestxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building reliable APIs and distributed services. Go & Python. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 👯 Open to collaborating on open-source projects
+- 🌍 Based in Indonesia
+- ✨ I prefer boring solutions that work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=onlyquestxx&hide_border=true&theme=minimal" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=onlyquestxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="onlyquestxx GitHub stats" />
+
+<img src="https://img.shields.io/badge/Docker-7aa2f7?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/PostgreSQL-7aa2f7?style=for-the-badge&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Go-7aa2f7?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/FastAPI-7aa2f7?style=for-the-badge&logoColor=white" alt="FastAPI" />
